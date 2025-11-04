@@ -34,9 +34,6 @@ I’m passionate about building reliable systems, exploring AI-powered automatio
 
 ### 📊 GitHub Stats
 
-![Rafath’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rafathkp&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafathkp&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafathkp&theme=react-dark)
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafathkp&theme=radical) ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafathkp&theme=radical)
 ---
 
